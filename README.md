@@ -23,6 +23,13 @@ A smart, interactive chatbot that lets you **upload PDF documents** and **chat**
 
 ---
 
+---
+
+## 🎥 Demo Image
+
+<img src="Document_Chatbot.png" alt="App Demo" width="400"/>
+---
+
 ## 🛠️ Tech Stack
 
 - **Frontend/UI:** Streamlit
