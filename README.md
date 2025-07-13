@@ -44,6 +44,14 @@ A smart, interactive chatbot that lets you **upload PDF documents** and **chat**
 Clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/your-username/document-chatbot.git
-cd document-chatbot
+git clone https://github.com/AmanSriv97/Document_Chatbot.git
 pip install -r requirements.txt
+
+```
+
+Setup your API Keys in the .env file
+
+then do 
+```bash
+streamlit run chatapp_multiple_docs.py
+```
